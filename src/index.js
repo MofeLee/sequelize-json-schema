@@ -122,3 +122,5 @@ module.exports = (model, options) => {
 
   return schema;
 };
+
+module.exports.property = property;
